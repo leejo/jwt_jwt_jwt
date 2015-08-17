@@ -50,7 +50,7 @@ Header
 }
 ```
 
-Claims
+Claims (note [registered claim names](https://tools.ietf.org/html/rfc7519#section-4.1))
 ```
 {
 	"message": "Hello YAPC"
