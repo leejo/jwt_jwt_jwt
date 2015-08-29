@@ -10,6 +10,30 @@ YAPC::EU 2015
 [leejo.github.io/code](https://leejo.github.io/code)
 
 ---
+
+![villars](img/villars.jpg)
+
+Villars-sur-Ollon
+
+---
+
+![franschhoek](img/franschhoek.jpg)
+
+franschhoek
+
+---
+
+![seven oaks](img/oak.jpg)
+![seven oaks](img/oak.jpg)
+![seven oaks](img/oak.jpg)
+![seven oaks](img/oak.jpg)
+![seven oaks](img/oak.jpg)
+![seven oaks](img/oak.jpg)
+![seven oaks](img/oak.jpg)
+
+(Seven Oaks)
+
+---
 ## What is a JWT?
 
 
