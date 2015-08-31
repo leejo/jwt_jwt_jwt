@@ -139,7 +139,7 @@ Revoking tokens?
 - [Acme::JWT](https://metacpan.org/pod/Acme::JWT)
     - Acme?
     - Unmaintained?
-- [Mojar::Auth::Jwt](https://metacpan.org/pod/Mojar::Auth::JWT)
+- [Mojar::Auth::Jwt](https://metacpan.org/pod/Mojar::Auth::Jwt)
     - Unmaintained?
     - ->decode doesn't check signature by default
 
