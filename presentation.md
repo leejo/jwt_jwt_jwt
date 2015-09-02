@@ -34,8 +34,29 @@ franschhoek
 (Seven Oaks)
 
 ---
-## What is a JWT?
 
+[#PhysPics15](https://twitter.com/hashtag/physpics15?f=tweets&vertical=default&src=hash)
+
+[InterActions Physics Photowalk](http://www.interactions.org/cms/?pid=5999)
+
+* CERN, Geneva, Switzerland  (Friday, September 25, 2015) 
+* DESY, Hamburg, Germany  (Saturday, September 26, 2015) 
+* Fermilab, Chicago, USA  (Saturday, September 26, 2015) 
+* INFN, Italy  (Friday, September 25, 2015) 
+* KEK, Japan  (Saturday, September 26, 2015) 
+* SLAC, California, USA  (Saturday, September 26, 2015) 
+* SUPL, Australia  (Friday, September 25, 2015) 
+* TRIUMF, Vancouver, Canada  (Friday, September 25, 2015)
+
+---
+# JWT JWT JWT
+
+[Lee Johnson](http://leejo.github.io)
+
+YAPC::EU 2015
+
+---
+## What is a JWT?
 
 
 ---
